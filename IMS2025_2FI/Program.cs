@@ -8,7 +8,7 @@
 
             int a = 2;
             int b = 3;
-            int summe = MyMath.Add(a, b);
+            int summe = MyMath.Addieren(a, b);
             Console.WriteLine($"Summe von {a} und {b} = {summe}"); 
         }
     }
